@@ -17,7 +17,7 @@ const pages = [
   ["summary", "Assets Summary", "table"],
 ] as const;
 
-const riskColor: Record<string, string> = { Rendah: "#22c55e", Sedang: "#f7b928", Tinggi: "#ef4444", Kritis: "#9f1239" };
+const riskColor: Record<string, string> = { Rendah: "#388E3C", Sedang: "#FBC02D", Tinggi: "#D32F2F", Kritis: "#B51C1C" };
 const codes = ["BD-001","BD-002","SW-001","SW-002","PA-001","PA-002","PA-003","PH-001","SI-001","SI-002","SI-003","SI-004","GA-001","GA-002","GA-003","INT-001","INT-002","INT-003","INT-004","INT-005"];
 
 function Icon({ name }: { name: string }) {
