@@ -1,6 +1,6 @@
 # Be-ARISE Dashboard — GitHub Pages
 
-Paket v2.1.7 memperbarui warna matriks risiko dan memastikan folder `VirtualTour` ikut diterbitkan oleh workflow GitHub Pages.
+Paket v2.1.8 memperbaiki navigasi bawah pada smartphone agar seluruh tombol dapat disentuh, sekaligus mempertahankan warna matriks risiko dan publikasi folder `VirtualTour`.
 
 Pemetaan heatmap:
 
